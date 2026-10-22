@@ -1,0 +1,12 @@
+body {
+    background-color: lavender;
+    min-height: 100vh;
+}
+
+#playing-cards {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
